@@ -20,17 +20,17 @@ Uso de un bucle while con `continue` para recorrer un arreglo de autos y mostrar
 ## Evidencias
 
 ### Problema 1
-![Evidencia Problema 1](Captura%20de%20pantalla%202035-09-26%20091931.png)
-![Evidencia Problema 11](Captura%20de%20pantalla%202035-09-26%20091950.png)
+![Evidencia Problema 1 - Parte 1](Captura%20de%20pantalla%202025-09-26%20091931.png)  
+![Evidencia Problema 1 - Parte 2](Captura%20de%20pantalla%202025-09-26%20091950.png)
 
 ### Problema 2
-![Evidencia Problema 2](Captura%20de%20pantalla%202035-09-26%20082011.png)
+![Evidencia Problema 2](Captura%20de%20pantalla%202025-09-26%20092011.png)
 
 ### Problema 3
-![Evidencia Problema 3](Captura%20de%20pantalla%202035-09-26%20082027.png)
+![Evidencia Problema 3](Captura%20de%20pantalla%202025-09-26%20092027.png)
 
 ### Problema 4
-![Evidencia Problema 4](Captura%20de%20pantalla%202035-09-26%20082142.png)
+![Evidencia Problema 4](Captura%20de%20pantalla%202025-09-26%20092042.png)
 
 ### Problema 5
 ![Evidencia Problema 5](Captura%20de%20pantalla%202025-09-26%20092057.png)
