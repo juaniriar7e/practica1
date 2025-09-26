@@ -7,6 +7,7 @@ Este repositorio contiene la solución a la Práctica #1
 ### - Problema 1
 Separación de formulario y procesamiento en dos archivos.  
 Se valida la edad ingresada y se muestra si el usuario es mayor o menor de edad.
+/Captura de pantalla 2025-09-26 091931.png
 ### - Problema 2
 Uso de un arreglo asociativo con posiciones de un equipo de fútbol y recorrido con `foreach`.
 ### - Problema 3
